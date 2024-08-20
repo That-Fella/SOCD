@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  socd.c
+C:\Cheats\socd\socd\src\socd.c(65,29): warning C4047: 'function': 'const size_t' differs in levels of indirection from 'char *'
+C:\Cheats\socd\socd\src\socd.c(65,29): warning C4024: 'sprintf_s': different types for formal and actual parameter 2
+C:\Cheats\socd\socd\src\socd.c(65,35): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Cheats\socd\socd\src\socd.c(65,35): warning C4024: 'sprintf_s': different types for formal and actual parameter 3
+C:\Cheats\socd\socd\src\socd.c(66,22): warning C4133: 'function': incompatible types - from 'char *' to 'LPCWSTR'
+C:\Cheats\socd\socd\src\socd.c(66,36): warning C4133: 'function': incompatible types - from 'char [4]' to 'LPCWSTR'
+C:\Cheats\socd\socd\src\socd.c(287,41): warning C4133: 'function': incompatible types - from 'char [260]' to 'LPWSTR'
+C:\Cheats\socd\socd\src\socd.c(289,19): warning C4133: 'function': incompatible types - from 'char [260]' to 'LPWSTR'
+C:\Cheats\socd\socd\src\socd.c(465,49): warning C4244: 'initializing': conversion from 'WPARAM' to 'UINT', possible loss of data
+  Generating code
+  5 of 23 functions (21.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  socd.vcxproj -> C:\Cheats\socd\build\socd.exe
